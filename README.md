@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Milan Kumar</h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Brand Designer</h3>
 
-<!--
-**milanxcode/milanxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Animations using GSAP, React.js, Three.js, Backend Development & Cybersecurity**  
+💻 I enjoy crafting responsive and interactive websites using**HTML, CSS, JS**  
+🎨 I also do **Design & Branding** for personal projects and clients  
+📈 Exploring the world of **Digital Marketing & SMMA**  
+🛡️ Passionate about **Web Security & Ethical Hacking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧰 Tech Stack  
+`HTML` `CSS` `JavaScript` `GSAP` `Python`  
+`Figma` `Canva`  
+`Linux` `PenTesting` `Vulnerability Assessment`  
+`Git` `GitHub`
+
+---
+
+📫 Let’s connect!  
+[LinkedIn](https://www.linkedin.com/in/milanxcode)  
+
+---
+
+💡 *“Think. Design. Develop. Secure. Scale. Repeat.”*
