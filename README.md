@@ -11,14 +11,14 @@
 
 ---
 
-##📊 GitHub Stats:
+📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=milanxcode&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=milanxcode&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milanxcode&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-##🧰 Tech Stack  
+🧰 Tech Stack  
 `HTML` `CSS` `JavaScript` `GSAP` `Python`  
 `Figma` `Canva`  
 `Linux` `PenTesting` `Vulnerability Assessment`  
@@ -26,7 +26,7 @@
 
 ---
 
-##📫 Let’s connect!  
+📫 Let’s connect!  
 
 [LinkedIn](https://www.linkedin.com/in/milanxcode)  
 
